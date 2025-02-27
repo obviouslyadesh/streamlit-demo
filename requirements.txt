@@ -3,6 +3,10 @@ pandas
 numpy
 streamlit
 xgboost
+shap
+matplotlib
+seaborn
+LabelEncoder
 
 
 
