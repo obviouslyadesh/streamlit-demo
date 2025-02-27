@@ -3,8 +3,6 @@ pandas
 numpy
 streamlit
 xgboost
-pickle
-tkinter
 
 
 
